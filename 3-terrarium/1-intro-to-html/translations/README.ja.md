@@ -5,7 +5,7 @@
 
 ## レッスン前の小テスト
 
-[レッスン前の小テスト](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/15?loc=ja)
+[レッスン前の小テスト](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/15?loc=ja)
 
 ### イントロダクション
 
@@ -106,7 +106,7 @@ HTML では、.html ファイルにタグを追加して Web ページの要素�
 
 閉じタグを必要としない html タグの一つに `<img>` タグがあります。なぜなら、ページがアイテムをレンダリングするために必要なすべての情報を含む `src` 要素を持っているからです。
 
-アプリ内に `images` というフォルダを作成し、その中に[ソースコードフォルダ](../solution/images)内のすべての画像を追加します (植物の画像が14枚あります)。
+アプリ内に `images` というフォルダを作成し、その中に[ソースコードフォルダ](../../solution/images)内のすべての画像を追加します (植物の画像が14枚あります)。
 
 ### タスク
 
@@ -217,13 +217,13 @@ HTMLに はまだ遊んで楽しいワイルドな「古い」タグがいくつ
 
 ## レッスン後の小テスト
 
-[レッスン後の小テスト](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/16?loc=ja)
+[レッスン後の小テスト](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/16?loc=ja)
 
 ## 復習と自己学習
 
 HTML は、今日のウェブを構築するのに役立ってきた「試行錯誤された」ビルディングブロックシステムです。古いタグと新しいタグを研究することで、その歴史について少し学びましょう。あるタグが非推奨になり、あるタグが追加された理由がわかりますか？将来的にはどのようなタグが導入されるかもしれませんか？
 
-Web やモバイル向けのサイト構築については、[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa) で詳しく解説しています。
+Web やモバイル向けのサイト構築については、[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-77807-sagibbon) で詳しく解説しています。
 
 
 ## 課題

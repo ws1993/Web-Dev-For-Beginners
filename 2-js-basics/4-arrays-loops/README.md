@@ -4,7 +4,7 @@
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
-[Pre-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/13)
+[Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/13)
 
 This lesson covers the basics of JavaScript, the language that provides interactivity on the web. In this lesson, you'll learn about arrays and loops, which are used to manipulate data.
 
@@ -14,7 +14,7 @@ This lesson covers the basics of JavaScript, the language that provides interact
 
 > 🎥 Click the images above for videos about arrays and loops.
 
-> You can take this lesson on [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101-arrays/?WT.mc_id=academic-13441-cxa)!
+> You can take this lesson on [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101-arrays/?WT.mc_id=academic-77807-sagibbon)!
 
 ## Arrays
 
@@ -68,13 +68,13 @@ iceCreamFlavors.length; //5
 
 ## Loops
 
-Loops allow for repetitive or **iterative** tasks, and can save a lot of time and code. Each iteration can vary in their variables, values, and conditions. There are different types of loops in JavaScript, and they have small differences, but essentially do the same thing: loop over data.
+Loops allow us to perform repetitive or **iterative** tasks, and can save a lot of time and code. Each iteration can vary in their variables, values, and conditions. There are different types of loops in JavaScript, and they all have small differences, but essentially do the same thing: loop over data.
 
 ### For Loop
 
 The `for` loop requires 3 parts to iterate:
 - `counter` A variable that is typically initialized with a number that counts the number of iterations
-- `condition` Expression that uses comparison operators to cause the loop to stop when `true`
+- `condition` Expression that uses comparison operators to cause the loop to stop when `false`
 - `iteration-expression` Runs at the end of each iteration, typically used to change the counter value
   
 ```javascript
@@ -88,7 +88,7 @@ for (let i = 0; i < 10; i++) {
 
 ### While loop
 
-Unlike the syntax for the `for` loop, `while` loops only require a condition that will stop the loop when `true`. Conditions in loops usually rely on other values like counters, and must be managed during the loop. Starting values for counters must be created outside the loop, and any expressions to meet a condition, including changing the counter must be maintained inside the loop.
+Unlike the syntax of the `for` loop, `while` loops only require a condition that will stop the loop when the condition becomes `false`. Conditions in loops usually rely on other values like counters, and must be managed during the loop. Starting values for counters must be created outside the loop, and any expressions to meet a condition, including changing the counter must be maintained inside the loop.
 
 ```javascript
 //Counting up to 10
@@ -122,12 +122,12 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 There are other ways of looping over arrays other than for and while loops. There are [forEach](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for...of), and [map](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Rewrite your array loop using one of these techniques.
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/14)
+[Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/14)
 
 
 ## Review & Self Study
 
-Arrays in JavaScript have many methods attached to them, extremely useful for data manipulation. [Read up on these methods](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) and try some of them out (like push, pop, slice and splice) on an array of your creation.
+Arrays in JavaScript have many methods attached to them, that are extremely useful for data manipulation. [Read up on these methods](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) and try some of them out (like push, pop, slice and splice) on an array of your creation.
 
 ## Assignment
 

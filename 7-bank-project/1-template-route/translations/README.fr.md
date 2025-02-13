@@ -2,7 +2,7 @@
 
 ## Quiz préalable
 
-[Quiz préalable](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/41?loc=fr)
+[Quiz préalable](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/41?loc=fr)
 
 ### Introduction
 
@@ -298,11 +298,11 @@ Ajoutez un nouveau modèle et une route pour une troisième page qui affiche les
 
 ## Quiz de validation des connaissances
 
-[Quiz de validation des connaissances](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/42?loc=fr)
+[Quiz de validation des connaissances](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/42?loc=fr)
 
 ## Révision et étude personnelle
 
-Le routage est l'une des parties étonnamment délicates du développement Web, d'autant plus que le Web passe des comportements d'actualisation des pages aux actualisations des pages d'application à page unique. En savoir plus sur [comment le service Azure Static Web App](https://docs.microsoft.com/azure/static-web-apps/routes?WT.mc_id=academic-13441-cxa) gère le routage . Pouvez-vous expliquer pourquoi certaines des décisions décrites dans ce document sont nécessaires?
+Le routage est l'une des parties étonnamment délicates du développement Web, d'autant plus que le Web passe des comportements d'actualisation des pages aux actualisations des pages d'application à page unique. En savoir plus sur [comment le service Azure Static Web App](https://docs.microsoft.com/azure/static-web-apps/routes/?WT.mc_id=academic-77807-sagibbon) gère le routage . Pouvez-vous expliquer pourquoi certaines des décisions décrites dans ce document sont nécessaires?
 
 ## Affectation
 

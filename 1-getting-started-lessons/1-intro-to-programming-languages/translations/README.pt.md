@@ -2,13 +2,13 @@
 
 Essa lição trata dos básicos de linguagens de programação. Os tópicos tratados aqui se aplicam na maioria das linguagens de programação modernas. Na sessão 'Ferramentas', você vai aprender sobre softwares úteis que ajudarão como uma pessoa desenvolvedora.
 
-![Introdução a Programação](/sketchnotes/webdev101-programming.png)
+![Introdução à Programação](../../../sketchnotes/webdev101-programming.png)
 
 > Sketchnote por [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Quiz Pré-Lição
 
-[Quiz Pré-Lição](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/1)
+[Quiz Pré-Lição](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/1)
 
 ## Introdução
 
@@ -137,7 +137,7 @@ Muitos navegadores vêm com _ferramentas para desenvolvimento_ (DevTools) que co
 
 #### Navegadores Populares e DevTools
 
-- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium?WT.mc_id=academic-13441-cxa)
+- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)
 - [Chrome](https://developers.google.com/web/tools/chrome-devtools/)
 - [Firefox](https://developer.mozilla.org/docs/Tools)
 
@@ -156,22 +156,22 @@ _💻 = já vem pré-instalado no sistema operacional._
 
 #### Windows
 
-- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7?WT.mc_id=academic-13441-cxa) 💻
-- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa) (also known as CMD) 💻
-- [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7/?WT.mc_id=academic-77807-sagibbon) 💻
+- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands/?WT.mc_id=academic-77807-sagibbon) (also known as CMD) 💻
+- [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)
 - [mintty](https://mintty.github.io/)
 
 #### MacOS
 
 - [Terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) 💻
 - [iTerm](https://iterm2.com/)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos/?view=powershell-7&WT.mc_id=academic-77807-sagibbon)
 
 #### Linux
 
 - [Bash](https://www.gnu.org/software/bash/manual/html_node/index.html) 💻
 - [KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux/?view=powershell-7&WT.mc_id=academic-77807-sagibbon)
 
 #### Ferramentas Populares para Linha de Comando
 
@@ -203,7 +203,7 @@ Compare algumas linguagens de programação. Quais são algumas das característ
 
 ## Quiz Pós-Aula
 
-[Quiz Pós-Aula](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/2)
+[Quiz Pós-Aula](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/2)
 
 ## Revisão & Autoestudo
 

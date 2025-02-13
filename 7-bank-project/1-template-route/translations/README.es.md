@@ -1,6 +1,6 @@
 # Plantillas HTML y rutas en una aplicación web
 
-## [Pre-lecture prueba](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/41)
+## [Pre-lecture prueba](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/41)
 
 ### Introducción
 
@@ -267,7 +267,7 @@ window.onpopstate = () => updateRoute();
 updateRoute();
 ```
 
-> Nota: utilizamos una [función de flecha](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions) aquí para declarar nuestro controlador de eventos `popstate` por concisión, pero un la función regular funcionaría igual.
+> Nota: utilizamos una [función de flecha](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions) aquí para declarar nuestro controlador de eventos `popstate` por concisión, pero la función regular funcionaría igual.
 
 
 [![Arrow Functions](https://img.youtube.com/vi/JiXY9wlqUxQ/0.jpg)](https://youtube.com/watch?v=JiXY9wlqUxQ "Arrow Functions")
@@ -281,7 +281,7 @@ Ahora intente utilizar los botones de avance y retroceso de sus navegadores y co
 
 Agregue una nueva plantilla y ruta para una tercera página que muestre los créditos de esta aplicación.
 
-## [Post-lecture prueba](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/42)
+## [Post-lecture prueba](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/42)
 
 ## Revisión y autoestudio
 
